@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_google_storage_bucket">apptodo-61e08.appspot.com</string>
+    <string name="default_firebase_api_key">AIzaSyDm23k4eZorK_XXpBeuuoohf2km0KsDjEg</string>
+    <string name="default_firebase_project_id">apptodo-61e08</string>
+    <string name="default_firebase_app_id">1:683424407898:android:674e45320d85e15240d363</string>
+    <string name="default_firebase_messaging_sender_id">683424407898</string>
+</resources>
