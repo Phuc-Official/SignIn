@@ -1,0 +1,1 @@
+int selectedBottomNavbarIndex = 2;
